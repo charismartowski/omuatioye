@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://weingeeno.ballot-knowledge-network.org/sitemap.xml
